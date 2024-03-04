@@ -44,6 +44,9 @@ body {
 	width: 20px;
 }
 
+
+
+
 #about {
 	display: flex;
 	background-color: #F6D2B8;
@@ -179,6 +182,14 @@ body {
 	margin: auto;
 	background-color: #A8D5D8;
 	position: relative;
+}
+
+.container {
+	width: 100%;
+	padding-right: var(--bs-gutter-x, 0.75rem);
+	padding-left: var(--bs-gutter-x, 0.75rem);
+	margin-right: auto;
+	margin-left: auto;
 }
 
 #services .container::before {
