@@ -230,6 +230,11 @@ body {
 	padding-block: 100px;
 }
 
+#contact input,
+#contact textarea {
+	background-color: rgb(218, 137, 97);
+}
+
 #contact .container {
 	display: flex;
 }
