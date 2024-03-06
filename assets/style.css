@@ -563,3 +563,8 @@ dl {
 	margin-top: 0;
 	margin-bottom: 1rem;
 }
+
+.form-container input,
+.form-container textarea {
+	background-color: white;
+}
